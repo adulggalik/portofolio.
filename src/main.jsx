@@ -504,6 +504,7 @@ function Projects() {
       PROJECT PREVIEW / {project.number}
     </span>
   )}
+  
 </div>
           </motion.article>
         ))}
