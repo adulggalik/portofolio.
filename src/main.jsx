@@ -345,7 +345,7 @@ function Hero() {
   <img src="/profile.jpg" alt="Foto Abdullah Abdul Ghani" />
 </div>
 
-            <h3>Abdullah.</h3>
+            <h3>Abdullah Abdul Ghani</h3>
             <p>Full-Stack Web Developer</p>
 
             <div className="visual-divider" />
@@ -504,7 +504,7 @@ function Projects() {
       PROJECT PREVIEW / {project.number}
     </span>
   )}
-  
+
 </div>
           </motion.article>
         ))}
